@@ -9,3 +9,6 @@ debouncing (via histogram binning), fast ADC readout, key autorepeat
 The interface is quite simple, litte demo sketch attached.
 
 Thanks to Volker Bartheld
+
+
+Tested on DFRduino + LCD keypad Shield V1.1
